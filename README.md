@@ -5,4 +5,6 @@
 
  Ex.: Se o cliente acessar o site pela manhã (das 5h às 11:59) aparece uma mensagem de "Bom dia" junto com uma imagem de um café e a paleta de cores é alterada para um tom da paleta de cores da foto apresentada.
 
- Created By Diana Martine&copy;
+Clique [aqui](https://dianamartine.github.io/Site-interativo-hour/.) para ver o projeto funcionando
+ 
+Created By Diana Martine&copy;
