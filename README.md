@@ -7,4 +7,4 @@
 
 Clique [aqui](https://dianamartine.github.io/Site-interativo-hour/.) para ver o projeto funcionando
  
-Created By Diana Martine&copy;
+Created By &reg;Diana Martine&trade;
