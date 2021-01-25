@@ -36,6 +36,7 @@ section img {
     opacity: 80%;
     position: relative;
     margin: auto;
+    width: 30%;
 }
 
 img:hover {
@@ -71,9 +72,30 @@ a:hover {
     transition: 1s;
 }
 
-@media (max-width: 330px) {
-    img {
-        max-width: 80%;
+@media (max-width: 836px) {
+    section img {
+        display: block;
+        width: 30vw;
+        height: 100%;
+        margin: auto;
+        margin-top: 20px;
+    }
+}
+
+@media (max-width: 650px) {
+    section img {
+        display: block;
+        width: 40vw;
+        height: 100%;
+        margin: auto;
+    }
+}
+
+@media (max-width: 464px) {
+    section img {
+        display: block;
+        width: 50vw;
+        height: 100%;
         margin: auto;
     }
 }
